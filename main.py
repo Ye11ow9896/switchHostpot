@@ -1,6 +1,5 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from PyQt5 import QtCore
 from first import First
 
 class Main(object):
